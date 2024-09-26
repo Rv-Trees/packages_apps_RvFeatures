@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <SwitchPreferenceCompat
+        android:key="bypass_charging_key"
+        android:title="@string/bypass_charging"
+        android:summary="Enable or disable bypass charging"
+        xmlns:settings="http://schemas.android.com/apk/res/com.android.settings"/>
+
+</PreferenceScreen>
